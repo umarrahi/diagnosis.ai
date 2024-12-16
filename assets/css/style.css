@@ -15,7 +15,7 @@ select {
 }
 
 select:focus {
-  border-color: #6a0dad; /* Highlight color on focus */
+  border-color: #75B643; /* Highlight color on focus */
   outline: none;
 }
 
@@ -23,7 +23,7 @@ select:focus {
 select::after {
   content: '▾'; /* Unicode for down arrow */
   /* font-size: 12px; */
-  color: #6a0dad;
+  color: #75B643;
   position: absolute;
   right: 10px;
   pointer-events: none;
@@ -110,7 +110,7 @@ a:visited {
 a:active,
 a:focus,
 a:hover {
-  color: #0046e2;
+  color: #75B643;
 }
 
 img {
@@ -279,7 +279,7 @@ p {
   height: 45px;
   line-height: 45px;
   font-size: 24px;
-  color: #0046e2;
+  color: #75B643;
   z-index: 1;
 }
 .th-menu-wrapper .th-menu-area .th-mobile-menu {
@@ -324,7 +324,7 @@ p {
   padding-right: 10px;
 }
 .th-menu-wrapper .th-menu-area .th-mobile-menu ul .th-item-has-children.th-active > a {
-  color: #0046e2;
+  color: #75B643;
 }
 .th-menu-wrapper .th-menu-area .th-mobile-menu ul .th-item-has-children.th-active > a:after {
   content: "";
@@ -347,7 +347,7 @@ p {
 .menuToggleBtn {
   padding: 0;
   border: none;
-  color: #0046e2;
+  color: #75B643;
   font-size: 36px;
   line-height: 50px;
   height: 50px;
@@ -359,7 +359,7 @@ p {
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #0046e2;
+  color: #75B643;
   position: relative;
   display: inline-block;
 }
@@ -648,7 +648,7 @@ footer .copyright .text {
   }
 }
 .bg-primary {
-  background-color: #0046e2;
+  background-color: #75B643;
 }
 
 .bg-secondary {
