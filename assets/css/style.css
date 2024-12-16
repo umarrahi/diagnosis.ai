@@ -40,10 +40,17 @@ select option:hover {
   background-color: #f0f0f0;
 }
 
+.input-main-div{
+  width: 40%;
+}
+.input-main-div-p7{
+  width: 30%;
+}
+
 /* ==== Custom CSS (Umar) END ==== */
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #494f5b;
